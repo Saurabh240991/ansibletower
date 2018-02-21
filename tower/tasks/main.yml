@@ -1,2 +1,3 @@
 ---
-# tasks file for tower
+- debug:
+    msg: "Boss you are right track"
